@@ -3,7 +3,11 @@
 	<AudioObjects>
 		<WorkUnit Name="Default Work Unit" ID="{39442961-B75A-47FD-82C4-5BA67F9905B9}" PersistMode="Standalone">
 			<ChildrenList>
-				<Sound Name="rotator_motor_005" ID="{AECB8519-F38A-42DE-B159-8BD1981EFC63}" ShortID="583402422">
+				<Sound Name="amb_ forest" ID="{0FD0C9C4-E516-4098-9F89-6BD98795282A}" ShortID="178687242">
+					<PropertyList>
+						<Property Name="EnableAttenuation" Type="bool" Value="False"/>
+						<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{C2B85536-2E1E-4EC7-BFE7-A875B510E63F}"/>
@@ -13,13 +17,20 @@
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
-						<AudioFileSource Name="rotator_motor_005" ID="{6BC4D280-CCA8-481A-A03F-3F71DE06A166}" ShortID="843260577">
+						<AudioFileSource Name="amb_forest" ID="{901D5327-2F55-4B45-AB95-C56B79DB4ED8}" ShortID="758524162">
+							<PropertyList>
+								<Property Name="FadeInDuration" Type="Real64" Value="0.05"/>
+								<Property Name="FadeOutDuration" Type="Real64" Value="0.05"/>
+								<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+								<Property Name="TrimBegin" Type="Real64" Value="5.30013535551207"/>
+								<Property Name="TrimEnd" Type="Real64" Value="68.7755659227161"/>
+							</PropertyList>
 							<Language>SFX</Language>
-							<AudioFile>rotator_motor_005.wav</AudioFile>
+							<AudioFile>amb_forest.wav</AudioFile>
 						</AudioFileSource>
 					</ChildrenList>
 					<ActiveSourceList>
-						<ActiveSource Name="rotator_motor_005" ID="{6BC4D280-CCA8-481A-A03F-3F71DE06A166}" Platform="Linked"/>
+						<ActiveSource Name="amb_forest" ID="{901D5327-2F55-4B45-AB95-C56B79DB4ED8}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
 			</ChildrenList>

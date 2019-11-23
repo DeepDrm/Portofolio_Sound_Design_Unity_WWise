@@ -19,6 +19,7 @@ namespace AK
     namespace BANKS
     {
         static const AkUniqueID INIT = 1355168291U;
+        static const AkUniqueID FOREST_SOUNDBANK = 4002332272U;
         static const AkUniqueID PUTE = 1774778785U;
     } // namespace BANKS
 

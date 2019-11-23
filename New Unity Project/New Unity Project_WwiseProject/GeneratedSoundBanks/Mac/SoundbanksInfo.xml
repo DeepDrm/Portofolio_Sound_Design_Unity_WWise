@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="11" SoundbankVersion="134">
 	<RootPaths>
-		<ProjectRoot>C:\Users\sergi\Desktop\New Unity Project\New Unity Project_WwiseProject\</ProjectRoot>
-		<SourceFilesRoot>C:\Users\sergi\Desktop\New Unity Project\New Unity Project_WwiseProject\.cache\Mac\</SourceFilesRoot>
-		<SoundBanksRoot>C:\Users\sergi\Desktop\New Unity Project\New Unity Project_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ProjectRoot>D:\Program Files HDD\Unity Downloaded Projects\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>D:\Program Files HDD\Unity Downloaded Projects\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>D:\Program Files HDD\Unity Downloaded Projects\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>C:\Users\sergi\Desktop\New Unity Project\New Unity Project_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>D:\Program Files HDD\Unity Downloaded Projects\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
@@ -21,12 +21,26 @@
 			<ShortName>pute</ShortName>
 			<Path>pute.bnk</Path>
 			<IncludedEvents>
-				<Event Id="3050945240" Name="New_Event" ObjectPath="\Events\Default Work Unit\New_Event" DurationType="OneShot" DurationMin="2.256771" DurationMax="2.256771"/>
+				<Event Id="3050945240" Name="New_Event" ObjectPath="\Events\Default Work Unit\New_Event" DurationType="Infinite"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
-				<File Id="843260577" Language="SFX">
-					<ShortName>rotator_motor_005.wav</ShortName>
-					<Path>SFX\rotator_motor_005_10C4C929.wem</Path>
+				<File Id="758524162" Language="SFX">
+					<ShortName>amb_forest.wav</ShortName>
+					<Path>SFX\amb_forest_F9234CBB.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="4002332272" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Forest_Soundbank</ObjectPath>
+			<ShortName>Forest_Soundbank</ShortName>
+			<Path>Forest_Soundbank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3050945240" Name="New_Event" ObjectPath="\Events\Default Work Unit\New_Event" DurationType="Infinite"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="758524162" Language="SFX">
+					<ShortName>amb_forest.wav</ShortName>
+					<Path>SFX\amb_forest_F9234CBB.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>
