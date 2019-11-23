@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3050945240	New_Event			\Default Work Unit\New_Event	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	843260577	rotator_motor_005	C:\Users\sergi\Desktop\New Unity Project\New Unity Project_WwiseProject\.cache\Windows\SFX\rotator_motor_005_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\rotator_motor_005		433444
+
