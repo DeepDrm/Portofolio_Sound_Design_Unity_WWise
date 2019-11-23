@@ -2,6 +2,7 @@
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="134">
 	<RootPaths>
 <<<<<<< HEAD
+<<<<<<< HEAD
 		<ProjectRoot>C:\Users\sergi\Desktop\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\</ProjectRoot>
 		<SourceFilesRoot>C:\Users\sergi\Desktop\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\.cache\Windows\</SourceFilesRoot>
 		<SoundBanksRoot>C:\Users\sergi\Desktop\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
@@ -14,6 +15,13 @@
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
 		<ExternalSourcesOutputRoot>D:\Program Files HDD\Unity Downloaded Projects\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
 >>>>>>> 694f139f4c73c653d92e69f6de485408624992ce
+=======
+		<ProjectRoot>C:\Users\sergi\Desktop\New Unity Project\New Unity Project_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\sergi\Desktop\New Unity Project\New Unity Project_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\sergi\Desktop\New Unity Project\New Unity Project_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\sergi\Desktop\New Unity Project\New Unity Project_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+>>>>>>> parent of cc3cec6... Footsteps_normal
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
@@ -24,11 +32,12 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="1544306476" Language="SFX">
-			<ObjectPath>\SoundBanks\Default Work Unit\Scene1</ObjectPath>
-			<ShortName>Scene1</ShortName>
-			<Path>Scene1.bnk</Path>
+		<SoundBank Id="1774778785" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\pute</ObjectPath>
+			<ShortName>pute</ShortName>
+			<Path>pute.bnk</Path>
 			<IncludedEvents>
+<<<<<<< HEAD
 <<<<<<< HEAD
 				<Event Id="3050945240" Name="New_Event" ObjectPath="\Events\Default Work Unit\New_Event" DurationType="OneShot" DurationMin="0.189660" DurationMax="1.091040"/>
 			</IncludedEvents>
@@ -74,6 +83,14 @@
 					<ShortName>amb_forest.wav</ShortName>
 					<Path>SFX\amb_forest_F9234CBB.wem</Path>
 >>>>>>> 694f139f4c73c653d92e69f6de485408624992ce
+=======
+				<Event Id="3050945240" Name="New_Event" ObjectPath="\Events\Default Work Unit\New_Event" DurationType="OneShot" DurationMin="2.256771" DurationMax="2.256771"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="843260577" Language="SFX">
+					<ShortName>rotator_motor_005.wav</ShortName>
+					<Path>SFX\rotator_motor_005_10C4C929.wem</Path>
+>>>>>>> parent of cc3cec6... Footsteps_normal
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>

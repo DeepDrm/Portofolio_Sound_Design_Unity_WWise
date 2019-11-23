@@ -3,7 +3,7 @@
 	<UserProjectSettingsInfo>
 		<UserProjectSettings Name="" ID="{9DC77F0C-88B1-4B24-9A82-911EC3D57D5F}">
 			<PropertyList>
-				<Property Name="AudioFilesImporter\Path" Type="string" Value="C:\Users\sergi\Desktop\Nueva carpeta\Footsteps\Wood"/>
+				<Property Name="AudioFilesImporter\Path" Type="string" Value="D:\Sound_Design\Sounds\gdc2019-sonniss\3maze - Electric Motors"/>
 				<Property Name="Event Action List\{AA2929C3-117D-4E4D-A76F-033ABCA969A8}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="EventView\FilterMode1" Type="int32" Value="2"/>
 				<Property Name="ExternalSourcesInputPath" Type="string">
@@ -76,11 +76,11 @@
 				<Property Name="ProjectExplorer\x64_Expanded_20_2" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_21_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_21_2" Type="string" Value=""/>
-				<Property Name="ProjectExplorer\x64_Expanded_2_1" Type="string" Value="9o4Lirg0m0eRmMjOIwtY8H0ElWCVfuBHjf90WiFdQ5NhKUQ5Wrf9R4LEW6Z/mQW59pdNE9oDZ0iNeXlmJrU6K6xSXFfK5/ZKjV/M+0R2+PY="/>
+				<Property Name="ProjectExplorer\x64_Expanded_2_1" Type="string" Value="YSlEOVq3/UeCxFumf5kFuQ=="/>
 				<Property Name="ProjectExplorer\x64_Expanded_2_2" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_3_1" Type="string" Value="2mra9Ur0EkCUH2UM/9ED5A=="/>
 				<Property Name="ProjectExplorer\x64_Expanded_3_2" Type="string" Value="2mra9Ur0EkCUH2UM/9ED5A=="/>
-				<Property Name="ProjectExplorer\x64_Expanded_4_1" Type="string" Value="vfbbPg4gFkqnauIxmtHh0WYhVQYLMC9Ps+qbDDS/6n4="/>
+				<Property Name="ProjectExplorer\x64_Expanded_4_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_4_2" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_5_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_5_2" Type="string" Value=""/>

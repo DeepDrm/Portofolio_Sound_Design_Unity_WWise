@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <BankMemory>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<Timestamp>1574536554</Timestamp>
 	<DataSize>235124</DataSize>
 	<FileSize>236444</FileSize>
@@ -15,6 +16,14 @@
 	<SFXPreFetchSize>0</SFXPreFetchSize>
 	<SFXInMemorySize>11197192</SFXInMemorySize>
 >>>>>>> 694f139f4c73c653d92e69f6de485408624992ce
+=======
+	<Timestamp>1574524016</Timestamp>
+	<DataSize>433444</DataSize>
+	<FileSize>433599</FileSize>
+	<DecodedSize>433444</DecodedSize>
+	<SFXPreFetchSize>0</SFXPreFetchSize>
+	<SFXInMemorySize>433444</SFXInMemorySize>
+>>>>>>> parent of cc3cec6... Footsteps_normal
 	<SFXMissingFiles>0</SFXMissingFiles>
 	<MusicPreFetchSize>0</MusicPreFetchSize>
 	<MusicInMemorySize>0</MusicInMemorySize>

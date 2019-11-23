@@ -31,23 +31,23 @@ MonoBehaviour:
     ParentPhysicalPath: 
     guid: 4d4e22658c2b204f87f3e7d84224f512
     GuidInternal: 
-    m_lastTime: -8586270703104862340
+    m_lastTime: -8586270831199904326
     List:
-    - name: Scene1
+    - name: pute
       guid: cdf1b9228b885f4eae1960df3b1d0eba
-      id: 1544306476
+      id: 1774778785
       PathAndIcons:
       - ElementName: Default Work Unit
         ObjectType: 12
-      - ElementName: Scene1
+      - ElementName: pute
         ObjectType: 7
-      Path: Default Work Unit\Scene1
+      Path: Default Work Unit\pute
   EventWwu:
   - PhysicalPath: Events\Default Work Unit.wwu
     ParentPhysicalPath: 
     guid: da6adaf54af41240941f650cffd103e4
     GuidInternal: 
-    m_lastTime: -8586270703104772554
+    m_lastTime: -8586270831834093943
     List:
     - name: New_Event
       guid: c32929aa7d114d4ea76f033abca969a8
@@ -59,8 +59,8 @@ MonoBehaviour:
         ObjectType: 3
       Path: Default Work Unit\New_Event
       maxAttenuation: 0
-      maxDuration: 1091040
-      minDuration: 189660
+      maxDuration: -1
+      minDuration: -1
   RtpcWwu:
   - PhysicalPath: Game Parameters\Default Work Unit.wwu
     ParentPhysicalPath: 
@@ -80,39 +80,8 @@ MonoBehaviour:
     ParentPhysicalPath: 
     guid: 662155060b302f4fb3ea9b0c34bfea7e
     GuidInternal: 
-    m_lastTime: -8586270703104732928
-    List:
-    - name: Footsteps
-      guid: bdf6db3e0e20164aa76ae2319ad1e1d1
-      id: 2385628198
-      PathAndIcons:
-      - ElementName: Default Work Unit
-        ObjectType: 12
-      - ElementName: Footsteps
-        ObjectType: 11
-      Path: Default Work Unit\Footsteps
-      values:
-      - name: Metal
-        guid: 441932806120f342a955504a28472c3a
-        id: 2473969246
-        PathAndIcons:
-        - ElementName: Metal
-          ObjectType: 10
-      - name: Normal
-        guid: 022bd44bf5ebb14583deab70648aaea2
-        id: 1160234136
-        PathAndIcons:
-        - ElementName: Normal
-          ObjectType: 10
-      - name: Wet
-        guid: 53dfa4ce74247c48bcb23b7c52d432c1
-        id: 1181096339
-        PathAndIcons:
-        - ElementName: Wet
-          ObjectType: 10
-      ValueGuids: []
-      ValueIcons: []
-      valuesInternal: []
+    m_lastTime: -8586270835562964254
+    List: []
   TriggerWwu:
   - PhysicalPath: Triggers\Default Work Unit.wwu
     ParentPhysicalPath: 
@@ -126,8 +95,5 @@ MonoBehaviour:
   - /New Unity Project_WwiseProject/Events/Default Work Unit
   - /New Unity Project_WwiseProject/SoundBanks
   - /New Unity Project_WwiseProject/SoundBanks/Default Work Unit
-  - /New Unity Project_WwiseProject/Switches
-  - /New Unity Project_WwiseProject/Switches/Default Work Unit
-  - /New Unity Project_WwiseProject/Switches/Default Work Unit/Footsteps
   autoPopulateEnabled: 1
   CurrentPluginConfig: 

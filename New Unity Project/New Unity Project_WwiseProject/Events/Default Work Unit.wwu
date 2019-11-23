@@ -12,6 +12,7 @@
 							<ReferenceList>
 								<Reference Name="Target">
 <<<<<<< HEAD
+<<<<<<< HEAD
 									<ObjectRef Name="Footsteps" ID="{134D97F6-03DA-4867-8D79-796626B53A2B}" WorkUnitID="{39442961-B75A-47FD-82C4-5BA67F9905B9}"/>
 =======
 									<ObjectRef Name="amb_ forest" ID="{0FD0C9C4-E516-4098-9F89-6BD98795282A}" WorkUnitID="{39442961-B75A-47FD-82C4-5BA67F9905B9}"/>
@@ -39,6 +40,9 @@
 								<Reference Name="Target">
 									<ObjectRef Name="amb_ forest" ID="{0FD0C9C4-E516-4098-9F89-6BD98795282A}" WorkUnitID="{39442961-B75A-47FD-82C4-5BA67F9905B9}"/>
 >>>>>>> 694f139f4c73c653d92e69f6de485408624992ce
+=======
+									<ObjectRef Name="rotator_motor_005" ID="{AECB8519-F38A-42DE-B159-8BD1981EFC63}" WorkUnitID="{39442961-B75A-47FD-82C4-5BA67F9905B9}"/>
+>>>>>>> parent of cc3cec6... Footsteps_normal
 								</Reference>
 							</ReferenceList>
 						</Action>

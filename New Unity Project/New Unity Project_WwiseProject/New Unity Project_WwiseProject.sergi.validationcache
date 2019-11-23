@@ -50,6 +50,7 @@
 	<ValidationCacheItem File="C:\Users\sergi\Desktop\New Unity Project_WwiseIntegrationTemp\New Unity Project_WwiseProject\Switches\Default Work Unit.wwu" DateLow="1574523294" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\sergi\Desktop\New Unity Project_WwiseIntegrationTemp\New Unity Project_WwiseProject\Triggers\Default Work Unit.wwu" DateLow="1574523294" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\sergi\Desktop\New Unity Project_WwiseIntegrationTemp\New Unity Project_WwiseProject\Virtual Acoustics\Default Work Unit.wwu" DateLow="1574523294" DateHigh="0"/>
+<<<<<<< HEAD
 	<ValidationCacheItem File="C:\Users\sergi\Desktop\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1574537520" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\sergi\Desktop\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\Attenuations\Default Work Unit.wwu" DateLow="1574523329" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\sergi\Desktop\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\Audio Devices\Default Work Unit.wwu" DateLow="1574523329" DateHigh="0"/>
@@ -76,4 +77,6 @@
 	<ValidationCacheItem File="C:\Users\sergi\Desktop\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\Switches\Default Work Unit.wwu" DateLow="1574523329" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\sergi\Desktop\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\Triggers\Default Work Unit.wwu" DateLow="1574523329" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\sergi\Desktop\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\Virtual Acoustics\Default Work Unit.wwu" DateLow="1574523329" DateHigh="0"/>
+=======
+>>>>>>> parent of cc3cec6... Footsteps_normal
 </ValidationCache>

@@ -3,6 +3,7 @@
 	<SoundBanks>
 		<WorkUnit Name="Default Work Unit" ID="{65224E4D-2B8C-4F20-87F3-E7D84224F512}" PersistMode="Standalone">
 			<ChildrenList>
+<<<<<<< HEAD
 				<SoundBank Name="Scene1" ID="{22B9F1CD-888B-4E5F-AE19-60DF3B1D0EBA}">
 <<<<<<< HEAD
 =======
@@ -12,6 +13,9 @@
 				</SoundBank>
 				<SoundBank Name="Forest_Soundbank" ID="{383AB0F4-2CF0-46DA-85E9-DAE71158C656}">
 >>>>>>> 694f139f4c73c653d92e69f6de485408624992ce
+=======
+				<SoundBank Name="pute" ID="{22B9F1CD-888B-4E5F-AE19-60DF3B1D0EBA}">
+>>>>>>> parent of cc3cec6... Footsteps_normal
 					<ObjectInclusionList>
 						<ObjectRef Name="Default Work Unit" ID="{39442961-B75A-47FD-82C4-5BA67F9905B9}" WorkUnitID="{39442961-B75A-47FD-82C4-5BA67F9905B9}" Filter="7" Origin="Manual"/>
 					</ObjectInclusionList>
