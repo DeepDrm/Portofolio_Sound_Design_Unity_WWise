@@ -8,7 +8,7 @@
 						<Action Name="" ID="{1ECFB967-690D-4B4C-A047-00464420E65D}" ShortID="714300495">
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="rotator_motor_005" ID="{AECB8519-F38A-42DE-B159-8BD1981EFC63}" WorkUnitID="{39442961-B75A-47FD-82C4-5BA67F9905B9}"/>
+									<ObjectRef Name="Footsteps" ID="{134D97F6-03DA-4867-8D79-796626B53A2B}" WorkUnitID="{39442961-B75A-47FD-82C4-5BA67F9905B9}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>

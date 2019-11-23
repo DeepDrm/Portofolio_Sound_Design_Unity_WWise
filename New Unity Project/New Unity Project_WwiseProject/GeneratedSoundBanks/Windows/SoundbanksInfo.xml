@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="134">
 	<RootPaths>
-		<ProjectRoot>C:\Users\sergi\Desktop\New Unity Project\New Unity Project_WwiseProject\</ProjectRoot>
-		<SourceFilesRoot>C:\Users\sergi\Desktop\New Unity Project\New Unity Project_WwiseProject\.cache\Windows\</SourceFilesRoot>
-		<SoundBanksRoot>C:\Users\sergi\Desktop\New Unity Project\New Unity Project_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ProjectRoot>C:\Users\sergi\Desktop\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\sergi\Desktop\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\sergi\Desktop\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>C:\Users\sergi\Desktop\New Unity Project\New Unity Project_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>C:\Users\sergi\Desktop\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
@@ -16,17 +16,33 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="1774778785" Language="SFX">
-			<ObjectPath>\SoundBanks\Default Work Unit\pute</ObjectPath>
-			<ShortName>pute</ShortName>
-			<Path>pute.bnk</Path>
+		<SoundBank Id="1544306476" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Scene1</ObjectPath>
+			<ShortName>Scene1</ShortName>
+			<Path>Scene1.bnk</Path>
 			<IncludedEvents>
-				<Event Id="3050945240" Name="New_Event" ObjectPath="\Events\Default Work Unit\New_Event" DurationType="OneShot" DurationMin="2.256771" DurationMax="2.256771"/>
+				<Event Id="3050945240" Name="New_Event" ObjectPath="\Events\Default Work Unit\New_Event" DurationType="OneShot" DurationMin="0.189660" DurationMax="1.091040"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
-				<File Id="843260577" Language="SFX">
-					<ShortName>rotator_motor_005.wav</ShortName>
-					<Path>SFX\rotator_motor_005_10C4C929.wem</Path>
+				<File Id="869704" Language="SFX">
+					<ShortName>Footstep_Wood-3.wav</ShortName>
+					<Path>SFX\Footstep_Wood-3_10C4C929.wem</Path>
+				</File>
+				<File Id="342208084" Language="SFX">
+					<ShortName>Footsteps\Wet\Footstep_Wet_1.wav</ShortName>
+					<Path>SFX\Footsteps\Wet\Footstep_Wet_1_10C4C929.wem</Path>
+				</File>
+				<File Id="415944353" Language="SFX">
+					<ShortName>Footsteps\Metal\Footstep_Metal.wav</ShortName>
+					<Path>SFX\Footsteps\Metal\Footstep_Metal_10C4C929.wem</Path>
+				</File>
+				<File Id="754488615" Language="SFX">
+					<ShortName>Footstep_Wood-2.wav</ShortName>
+					<Path>SFX\Footstep_Wood-2_10C4C929.wem</Path>
+				</File>
+				<File Id="792890919" Language="SFX">
+					<ShortName>Footstep_Wood-1.wav</ShortName>
+					<Path>SFX\Footstep_Wood-1_10C4C929.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>
