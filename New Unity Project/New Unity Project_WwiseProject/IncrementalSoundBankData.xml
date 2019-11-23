@@ -3,28 +3,48 @@
 	<Platform GUID="{AD879F95-259A-4110-87B4-87DDFF221B9A}">
 		<Banks>
 			<Language ID="393239870">
+<<<<<<< HEAD
 				<File Name="Init" Hash="2279659568" Timestamp="1574523733"/>
 				<File Name="Scene1" Hash="3511428397" Timestamp="1574536553"/>
 				<File Name="pute" Hash="1472504793" Timestamp="1574524016"/>
+=======
+				<File Name="Forest_Soundbank" Hash="2436776755" Timestamp="1574535496"/>
+				<File Name="Init" Hash="2279659568" Timestamp="1574535496"/>
+				<File Name="pute" Hash="3756309399" Timestamp="1574535496"/>
+>>>>>>> 694f139f4c73c653d92e69f6de485408624992ce
 			</Language>
 		</Banks>
 		<XMLInfo>
 			<Language ID="-1">
+<<<<<<< HEAD
 				<File Name="" Hash="2393648759" Timestamp="1574536553"/>
+=======
+				<File Name="" Hash="3468316938" Timestamp="1574535496"/>
+>>>>>>> 694f139f4c73c653d92e69f6de485408624992ce
 			</Language>
 		</XMLInfo>
 	</Platform>
 	<Platform GUID="{BE2439D7-124C-4FBF-8FD6-34CF62A99600}">
 		<Banks>
 			<Language ID="393239870">
+<<<<<<< HEAD
 				<File Name="Init" Hash="1182415902" Timestamp="1574523734"/>
 				<File Name="Scene1" Hash="3511428397" Timestamp="1574536554"/>
 				<File Name="pute" Hash="1472504793" Timestamp="1574524016"/>
+=======
+				<File Name="Forest_Soundbank" Hash="2436776755" Timestamp="1574535496"/>
+				<File Name="Init" Hash="1182415902" Timestamp="1574535496"/>
+				<File Name="pute" Hash="3756309399" Timestamp="1574535496"/>
+>>>>>>> 694f139f4c73c653d92e69f6de485408624992ce
 			</Language>
 		</Banks>
 		<XMLInfo>
 			<Language ID="-1">
+<<<<<<< HEAD
 				<File Name="" Hash="2852267705" Timestamp="1574536554"/>
+=======
+				<File Name="" Hash="4066204012" Timestamp="1574535496"/>
+>>>>>>> 694f139f4c73c653d92e69f6de485408624992ce
 			</Language>
 		</XMLInfo>
 	</Platform>

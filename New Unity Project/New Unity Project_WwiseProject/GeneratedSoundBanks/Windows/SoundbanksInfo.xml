@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="134">
 	<RootPaths>
+<<<<<<< HEAD
 		<ProjectRoot>C:\Users\sergi\Desktop\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\</ProjectRoot>
 		<SourceFilesRoot>C:\Users\sergi\Desktop\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\.cache\Windows\</SourceFilesRoot>
 		<SoundBanksRoot>C:\Users\sergi\Desktop\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
 		<ExternalSourcesOutputRoot>C:\Users\sergi\Desktop\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+=======
+		<ProjectRoot>D:\Program Files HDD\Unity Downloaded Projects\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>D:\Program Files HDD\Unity Downloaded Projects\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\Program Files HDD\Unity Downloaded Projects\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\Program Files HDD\Unity Downloaded Projects\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+>>>>>>> 694f139f4c73c653d92e69f6de485408624992ce
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
@@ -21,6 +29,7 @@
 			<ShortName>Scene1</ShortName>
 			<Path>Scene1.bnk</Path>
 			<IncludedEvents>
+<<<<<<< HEAD
 				<Event Id="3050945240" Name="New_Event" ObjectPath="\Events\Default Work Unit\New_Event" DurationType="OneShot" DurationMin="0.189660" DurationMax="1.091040"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
@@ -43,6 +52,28 @@
 				<File Id="792890919" Language="SFX">
 					<ShortName>Footstep_Wood-1.wav</ShortName>
 					<Path>SFX\Footstep_Wood-1_10C4C929.wem</Path>
+=======
+				<Event Id="3050945240" Name="New_Event" ObjectPath="\Events\Default Work Unit\New_Event" DurationType="Infinite"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="758524162" Language="SFX">
+					<ShortName>amb_forest.wav</ShortName>
+					<Path>SFX\amb_forest_F9234CBB.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="4002332272" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Forest_Soundbank</ObjectPath>
+			<ShortName>Forest_Soundbank</ShortName>
+			<Path>Forest_Soundbank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3050945240" Name="New_Event" ObjectPath="\Events\Default Work Unit\New_Event" DurationType="Infinite"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="758524162" Language="SFX">
+					<ShortName>amb_forest.wav</ShortName>
+					<Path>SFX\amb_forest_F9234CBB.wem</Path>
+>>>>>>> 694f139f4c73c653d92e69f6de485408624992ce
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>

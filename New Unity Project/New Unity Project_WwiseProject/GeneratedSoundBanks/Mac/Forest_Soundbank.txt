@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3050945240	New_Event			\Default Work Unit\New_Event	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	758524162	amb_ forest	D:\Program Files HDD\Unity Downloaded Projects\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\.cache\Mac\SFX\amb_forest_F9234CBB.wem		\Actor-Mixer Hierarchy\Default Work Unit\amb_ forest		11197192
+

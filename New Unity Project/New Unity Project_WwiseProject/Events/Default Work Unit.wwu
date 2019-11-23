@@ -3,12 +3,42 @@
 	<Events>
 		<WorkUnit Name="Default Work Unit" ID="{F5DA6ADA-F44A-4012-941F-650CFFD103E4}" PersistMode="Standalone">
 			<ChildrenList>
-				<Event Name="New_Event" ID="{AA2929C3-117D-4E4D-A76F-033ABCA969A8}">
+				<Event Name="amb_forest" ID="{AA2929C3-117D-4E4D-A76F-033ABCA969A8}">
 					<ChildrenList>
-						<Action Name="" ID="{1ECFB967-690D-4B4C-A047-00464420E65D}" ShortID="714300495">
+						<Action Name="" ID="{588122D3-63D0-4D49-BFF9-CDEAF903D26E}" ShortID="438369795">
+							<PropertyList>
+								<Property Name="FadeTime" Type="Real64" Value="1"/>
+							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Target">
+<<<<<<< HEAD
 									<ObjectRef Name="Footsteps" ID="{134D97F6-03DA-4867-8D79-796626B53A2B}" WorkUnitID="{39442961-B75A-47FD-82C4-5BA67F9905B9}"/>
+=======
+									<ObjectRef Name="amb_ forest" ID="{0FD0C9C4-E516-4098-9F89-6BD98795282A}" WorkUnitID="{39442961-B75A-47FD-82C4-5BA67F9905B9}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{A121C6DF-F20F-411A-8937-2489435BA5C2}" ShortID="1058685288">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="36"/>
+								<Property Name="SeekPercent" Type="Real64" Value="50">
+									<ModifierList>
+										<ModifierInfo>
+											<Modifier Name="" ID="{8E470353-004C-4B27-BD6B-FB2FD629CD7B}">
+												<PropertyList>
+													<Property Name="Enabled" Type="bool" Value="True"/>
+													<Property Name="Max" Type="Real64" Value="40"/>
+													<Property Name="Min" Type="Real64" Value="-40"/>
+												</PropertyList>
+											</Modifier>
+										</ModifierInfo>
+									</ModifierList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="amb_ forest" ID="{0FD0C9C4-E516-4098-9F89-6BD98795282A}" WorkUnitID="{39442961-B75A-47FD-82C4-5BA67F9905B9}"/>
+>>>>>>> 694f139f4c73c653d92e69f6de485408624992ce
 								</Reference>
 							</ReferenceList>
 						</Action>
