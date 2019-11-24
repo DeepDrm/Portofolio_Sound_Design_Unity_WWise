@@ -1,0 +1,23 @@
+Event	ID	Name			Wwise Object Path	Notes
+	674522502	Land			\Default Work Unit\Land	
+	2385628198	Footsteps			\Default Work Unit\Footsteps	
+	3833651337	Jump			\Default Work Unit\Jump	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	2385628198	Footsteps			\Default Work Unit\Footsteps	
+
+Switch	ID	Name	Switch Group			Notes
+	1160234136	Normal	Footsteps			
+	1181096339	Wet	Footsteps			
+	2473969246	Metal	Footsteps			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	208896549	Footstep_Metal	C:\Users\sergi\Desktop\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\.cache\Windows\SFX\Footsteps\Metal\Footstep_Metal_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps_land\Metal\Footstep_Metal		34990
+	237180908	Footstep_Wood-2	C:\Users\sergi\Desktop\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\.cache\Windows\SFX\Footsteps\Wood\Footstep_Wood-2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps_land\Wood\Footstep_Wood-2		38644
+	247607852	Footstep_Wood-1	C:\Users\sergi\Desktop\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\.cache\Windows\SFX\Footsteps\Wood\Footstep_Wood-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps_land\Wood\Footstep_Wood-1		38644
+	387015544	Footstep_Wood-3	C:\Users\sergi\Desktop\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\.cache\Windows\SFX\Footsteps\Wood\Footstep_Wood-3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps_land\Wood\Footstep_Wood-3		38644
+	556901483	Voice_breath_man_hard	C:\Users\sergi\Desktop\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\.cache\Windows\SFX\Voices\Voice_breath_man_F5604289.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps_jump\Voices\Voice_breath_man_hard		54442
+	599119776	Voice_breath_man_02	C:\Users\sergi\Desktop\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\.cache\Windows\SFX\Voices\Voice_breath_man_D0F107BF.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps_jump\Voices\Voice_breath_man_02		49768
+	739035169	Voice_breath_man	C:\Users\sergi\Desktop\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\.cache\Windows\SFX\Voices\Voice_breath_man_C75D6F66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps_jump\Voices\Voice_breath_man		73406
+	1012017122	Footstep_Wet_1	C:\Users\sergi\Desktop\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\.cache\Windows\SFX\Footsteps\Wet\Footstep_Wet_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps_land\Wet\Footstep_Wet_1		84162
+

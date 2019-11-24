@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="134">
+	<RootPaths>
+		<ProjectRoot>C:\Users\sergi\Desktop\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\sergi\Desktop\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\sergi\Desktop\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\sergi\Desktop\Portofolio_Sound_Design_Unity_WWise\New Unity Project\New Unity Project_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1774778785" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\pute</ObjectPath>
+			<ShortName>pute</ShortName>
+			<Path>pute.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2385628198" Name="Footsteps" ObjectPath="\Events\Default Work Unit\Footsteps" DurationType="OneShot" DurationMin="0.189660" DurationMax="1.312548"/>
+				<Event Id="3833651337" Name="Jump" ObjectPath="\Events\Default Work Unit\Jump" DurationType="OneShot" DurationMin="0.189660" DurationMax="1.312548"/>
+				<Event Id="674522502" Name="Land" ObjectPath="\Events\Default Work Unit\Land" DurationType="OneShot" DurationMin="0.189660" DurationMax="1.312548"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="208896549" Language="SFX">
+					<ShortName>Footsteps\Metal\Footstep_Metal.wav</ShortName>
+					<Path>SFX\Footsteps\Metal\Footstep_Metal_10C4C929.wem</Path>
+				</File>
+				<File Id="237180908" Language="SFX">
+					<ShortName>Footsteps\Wood\Footstep_Wood-2.wav</ShortName>
+					<Path>SFX\Footsteps\Wood\Footstep_Wood-2_10C4C929.wem</Path>
+				</File>
+				<File Id="247607852" Language="SFX">
+					<ShortName>Footsteps\Wood\Footstep_Wood-1.wav</ShortName>
+					<Path>SFX\Footsteps\Wood\Footstep_Wood-1_10C4C929.wem</Path>
+				</File>
+				<File Id="387015544" Language="SFX">
+					<ShortName>Footsteps\Wood\Footstep_Wood-3.wav</ShortName>
+					<Path>SFX\Footsteps\Wood\Footstep_Wood-3_10C4C929.wem</Path>
+				</File>
+				<File Id="556901483" Language="SFX">
+					<ShortName>Voices\Voice_breath_man.wav</ShortName>
+					<Path>SFX\Voices\Voice_breath_man_F5604289.wem</Path>
+				</File>
+				<File Id="599119776" Language="SFX">
+					<ShortName>Voices\Voice_breath_man.wav</ShortName>
+					<Path>SFX\Voices\Voice_breath_man_D0F107BF.wem</Path>
+				</File>
+				<File Id="739035169" Language="SFX">
+					<ShortName>Voices\Voice_breath_man.wav</ShortName>
+					<Path>SFX\Voices\Voice_breath_man_C75D6F66.wem</Path>
+				</File>
+				<File Id="1012017122" Language="SFX">
+					<ShortName>Footsteps\Wet\Footstep_Wet_1.wav</ShortName>
+					<Path>SFX\Footsteps\Wet\Footstep_Wet_1_10C4C929.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{F5DA6ADA-F44A-4012-941F-650CFFD103E4}" SchemaVersion="94">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{F5DA6ADA-F44A-4012-941F-650CFFD103E4}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Footsteps" ID="{C7F07AB0-71F5-4EDF-BC1A-B4F74F8FA42C}">
+					<ChildrenList>
+						<Action Name="" ID="{3B3EE937-DD20-4E0F-80CE-9737ED516C8B}" ShortID="722679602">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Footsteps" ID="{09286A8F-0CB9-473B-A943-4259844BE3F4}" WorkUnitID="{39442961-B75A-47FD-82C4-5BA67F9905B9}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Land" ID="{5EDDF88B-F80D-44EF-B29D-64AE5AC4E867}">
+					<ChildrenList>
+						<Action Name="" ID="{47A07E3E-A8E5-43ED-BFFC-972B67F3A3D0}" ShortID="634170063">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Footsteps_land" ID="{62E40524-6F29-4CE9-9B8C-7AE8ACA85046}" WorkUnitID="{39442961-B75A-47FD-82C4-5BA67F9905B9}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{E192F2FF-766C-4C2B-BFF7-B2392B29FC3C}" ShortID="619618105">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Footsteps" ID="{09286A8F-0CB9-473B-A943-4259844BE3F4}" WorkUnitID="{39442961-B75A-47FD-82C4-5BA67F9905B9}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Jump" ID="{851197FC-EBC0-48D3-8CF0-50B7247EA62D}">
+					<ChildrenList>
+						<Action Name="" ID="{26C2F14A-B0C7-40AC-86F7-C926AA119786}" ShortID="93087473">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Footsteps_jump" ID="{01857087-50F6-448F-AFC0-32A500D9AEE7}" WorkUnitID="{39442961-B75A-47FD-82C4-5BA67F9905B9}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{624C6BAA-031D-4709-A628-12AE54A0C550}" ShortID="545712280">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="4"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Footsteps" ID="{09286A8F-0CB9-473B-A943-4259844BE3F4}" WorkUnitID="{39442961-B75A-47FD-82C4-5BA67F9905B9}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

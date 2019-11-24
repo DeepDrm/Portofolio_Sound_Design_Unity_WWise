@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{65224E4D-2B8C-4F20-87F3-E7D84224F512}" SchemaVersion="94">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{65224E4D-2B8C-4F20-87F3-E7D84224F512}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="pute" ID="{22B9F1CD-888B-4E5F-AE19-60DF3B1D0EBA}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Land" ID="{5EDDF88B-F80D-44EF-B29D-64AE5AC4E867}" WorkUnitID="{F5DA6ADA-F44A-4012-941F-650CFFD103E4}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Jump" ID="{851197FC-EBC0-48D3-8CF0-50B7247EA62D}" WorkUnitID="{F5DA6ADA-F44A-4012-941F-650CFFD103E4}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Footsteps" ID="{C7F07AB0-71F5-4EDF-BC1A-B4F74F8FA42C}" WorkUnitID="{F5DA6ADA-F44A-4012-941F-650CFFD103E4}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>
